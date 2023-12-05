@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Serhii
-- 👀 I’m interested in Python develop
+- 👀 I’m Python developer
 - 🌱 I’m currently learning Python, HTML, CSS
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me -  mail: serhiy.loboda@gmail.com
