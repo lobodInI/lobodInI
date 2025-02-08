@@ -15,10 +15,12 @@ as well as on developing the user experience. <img src="./assets/lt.gif" width="
 
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-g?style=for-the-badge&logo=django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-gray?style=for-the-badge&logo=django&logoColor=red)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-2.1-black?style=for-the-badge&logo=flask)
-![Aiohttp](https://img.shields.io/badge/Aiohttp-0078D7?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Aiohttp](https://img.shields.io/badge/Aiohttp-0078D7?style=for-the-badge&logo=aiohttp)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
