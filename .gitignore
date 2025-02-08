@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+
+*.log
+
+*.swp
+
+env/
+venv/
+
+*.bak
+*.tmp
+
+.idea
